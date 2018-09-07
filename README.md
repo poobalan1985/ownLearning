@@ -1,2 +1,2 @@
-# ownLearning
+# MyLearning
 AboutPython
